@@ -1,89 +1,89 @@
 {
     "name": "HDR_2007_2008_Table_21",
-    "title": "HDR 2007-2008 Table 21",
+    "title": "HDR_2007-2008_Table_21",
     "description": "Unemployment and informal sector work in non-OECD countries",
     "fields": [
         {
-            "name":"HDI_R",
-            "title": "HDI rank",
+            "name":"HDI_rank",
+            "title": "HDI_rank",
             "type":"integer",
-            "description":"Rank of HDI' Countries"
+            "description":"Rank of HDI Countries"
         },
         {
             "name":"Country",
             "title": "Country",
             "type":"string",
-            "description":"Name of country"
+            "description":"List of countries"
         },
         {
             "name":"Unemployed_people_1996_2005",
-            "title": "Unemployed people (thousands) 1996-2005",
+            "title": "Unemployed_people_(thousands)_1996_2005",
             "type":"number",
-            "description":""
+            "description":"Unemployed people in every country in thousand of 1996 to 2005"
         },
         {
             "name":"Unemployment_rate_Total_1996_2005",
-            "title": "Unemployment rate Total (% of labour force) 1996-2005",
+            "title": "Unemployment_rate_Total_(%_of_labour_force)_1996_2005",
             "type":"number",
-            "description":""
+            "description":"Total of unemployed people in every country per percent of 1996 to 2005"
         },
         {
             "name":"Unemployment_rate_Female_1996_2005",
-            "title": "Unemployment rate Female (% of male rate) 1996-2005",
+            "title": "Unemployment_rate_Female_(%_of_male_rate)_1996_2005",
             "type":"number",
             "description":""
         },
         {
             "name":"Employment_by_economic_activity_Total_1996_2005",
-            "title":"Employment by economic activity Total (thousands) 1996-2005",
+            "title":"Employment_by_economic_activity_Total_(thousands)_1996_2005",
             "type":"number",
             "description":""
         },
         {
             "name":"Employment_by_economic_activity_Agriculture_1996_2005",
-            "title":"Employment by economic activity Agriculture (%) 1996-2005",
+            "title":"Employment_by_economic_activity_Agriculture_(%)_1996_2005",
             "type":"number",
             "description":""
         },
         {
             "name":"",
-            "title":"Employment by economic activity Industry (%) 1996-2005",
+            "title":"Employment_by_economic_activity_Industry_(%)_1996_2005",
             "type":"number",
             "description":""
         },
         {
             "name":"",
-            "title":"Employment by economic activity Services (%) 1996-2005",
+            "title":"Employment_by_economic_activity_Services_(%)_1996_2005",
             "type":"number",
             "description":""
         },
         {
             "name":"",
-            "title":"Employment in informal sector as a % of non-agricultural employmentc Survey year",
+            "title":"Employment_in_informal_sector_as_a_%_of_non_agricultural_employment_Survey_year",
             "type":"year",
             "description":""
         },
         {
             "name":"",
-            "title":"Employment in informal sector as a % of non-agricultural employmentc Both sexes (%)",
+            "title":"Employment_in_informal_sector_as_a_%_of_non_agricultural_employment_Both_sexes_(%)",
             "type":"number",
             "description":""
         },
         {
             "name":"",
-            "title":"Employment in informal sector as a % of non-agricultural employmentc Female (%)",
+            "title":"Employment_in_informal_sector_as_a_%_of_non_agricultural_employment_Female_(%)",
             "type":"number",
             "description":""
         },
         {
             "name":"",
-            "title":"Employment in informal sector as a % of non-agricultural employment Male (%)",
+            "title":"Employment_in_informal_sector_as_a_%_of_non_agricultural_employment_Male_(%)",
             "type":"number",
             "description":""
         },
         {
             "name":"",
-            "title":"Human development",
+            "title":"Human_development",
             "type":"string",
             "description":"",
             "constraints": {
